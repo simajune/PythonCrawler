@@ -69,8 +69,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/com/06_naver_parsing.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="210">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
               <folding>
                 <element signature="e#0#21#0" expanded="true" />
               </folding>
@@ -130,9 +130,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="39" />
-    <option name="y" value="23" />
+    <option name="y" value="123" />
     <option name="width" value="1241" />
     <option name="height" value="777" />
   </component>
@@ -324,15 +324,15 @@
       <workItem from="1549555161440" duration="357000" />
       <workItem from="1549555879433" duration="782000" />
       <workItem from="1549727594486" duration="185000" />
-      <workItem from="1550073821991" duration="1003000" />
+      <workItem from="1550073821991" duration="1009000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9417000" />
+    <option name="totallyTimeSpent" value="9423000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="39" y="23" width="1241" height="777" extended-state="6" />
+    <frame x="39" y="123" width="1241" height="777" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19599666" />
@@ -425,8 +425,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/com/06_naver_parsing.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
           <folding>
             <element signature="e#0#21#0" expanded="true" />
           </folding>
